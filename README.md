@@ -1,4 +1,4 @@
-# LeetCode-Answers
+# LeetCode-Solutions
 
 Hi there!
 
