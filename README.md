@@ -10,3 +10,5 @@ Hopefully this will give you a nice insight of my skills as a Software Developer
 In every folder I have listed my solution ( labeled solution ) and a quick README file that contians the LeetCode question.
 Note that some questions have multiple solution files. The reason for this is because I like to try and solve the same question in different languages.
 The language I use should be the extension of the file. For example if I were to use Javascript for a solution, the file will be labeled `Solution.js`.
+
+If you have any questions or comments on this repository, any of my solutions, or any of my other repositories, please do not hesitate to reach out to me. :)
