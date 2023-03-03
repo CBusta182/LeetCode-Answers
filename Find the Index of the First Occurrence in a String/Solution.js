@@ -14,12 +14,6 @@ var strStr = function( haystack, needle ) {
 };
 
 // Solution without utilizing built in JavaScript Functions.
-
-/**
- * @param {string} haystack
- * @param {string} needle
- * @return {number}
- */
 var strStr = function(haystack, needle) {
     let hayLength = haystack.length;
     let needleLength = needle.length;
