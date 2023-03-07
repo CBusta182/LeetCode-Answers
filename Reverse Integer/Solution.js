@@ -1,9 +1,6 @@
-/**
- * @param {number} x
- * @return {number}
- */
-
 function checkLimit( num ) {
+    // calculate upper and lower limits of an integer
+    // this is especially important in Javascript since it doesn't use the same data types as other programing languages.
     let upper = Math.pow( 2, 31 ) - 1;
     let lower = Math.pow( 2, 31 ) * -1;
 
@@ -24,6 +21,7 @@ var reverse = function(x) {
         negative = true;
     }
 
+    // we get the absolute value of the number so we don't add the negative sign to the end of the number when we reverse it.
     let num = Math.abs( x ).toString();
     let length = num.length;
     let nums = Array.from( num ).map( Number );
